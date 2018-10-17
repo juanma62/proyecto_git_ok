@@ -7,3 +7,5 @@ Ejercicio para aprender a usar GIT
 ```
 $_git init <nombre del proyecto>
 ```
+
+Prueba
