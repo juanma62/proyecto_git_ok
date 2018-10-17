@@ -1,0 +1,23 @@
+{
+  "name": "proyecto_git_ok",
+  "version": "1.0.0",
+  "description": "Ejercicio para aprender a usar GIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanma62/proyecto_git_ok.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanma62/proyecto_git_ok/issues"
+  },
+  "homepage": "https://github.com/juanma62/proyecto_git_ok#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
